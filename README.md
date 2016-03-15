@@ -1,4 +1,2 @@
 # Hola-Mundo
-
-Hello World
-Escribe línea Rama1
+Hola Mundo
